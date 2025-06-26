@@ -11,7 +11,6 @@ As a freshman at a university in Indonesia, I'm deeply passionate about Front-En
 
 <br />
 <br />
-<br />
 
 ### Languages and Tools:
 
