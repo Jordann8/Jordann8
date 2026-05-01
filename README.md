@@ -1,4 +1,4 @@
-## Hi there My name is Jordan
+## Hi there My name is Ahmad Dzakki but i usually call by Jordan (its a long story, trust me).
 
 As a freshman at a university in Indonesia, I'm deeply passionate about Front-End Development and UI/UX Design. I'm driven to build intuitive and efficient user experiences, especially on mobile platforms (Android & iOS). While I'm just starting my journey with Swift for iOS, I'm enthusiastic about contributing to and growing within the world of mobile app development. I'm also keenly interested in how data can be streamlined to support better decision-making through automation and cloud technologies. I'm actively seeking opportunities in data analytics and data engineering to drive business success.
 
